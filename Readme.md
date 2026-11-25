@@ -2,6 +2,8 @@
 
 ELSTAT regional agricultural tables → one long CSV (`data/agri.csv`) → static map dashboard.
 
+**Live site:** https://vgole001.github.io/elstat-agri-explorer/ (hosted on GitHub Pages from the `main` branch; push to `main` to update it)
+
 ## Quick start (PowerShell)
 
 Always run from the **project root** (the folder that contains `parser\`, `raw_data\`, `dashboard\`),
