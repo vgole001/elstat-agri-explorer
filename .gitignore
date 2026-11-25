@@ -1,0 +1,14 @@
+# local Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Excel lock files (open workbooks)
+~$*
+
+# editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# data/ is NOT ignored: the dashboard on GitHub Pages reads data/agri.json and data/anomalies.json
